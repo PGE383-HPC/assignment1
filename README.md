@@ -1,6 +1,6 @@
 # Assignment 1
 
-![Assignment 1](https://github.com/PGE383-HPC/assignment1-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 1](https://github.com/PGE383-HPC/assignment1/actions/workflows/main.yml/badge.svg)
 
 The aim of this assignment is to get familiarized with git, basic Unix commands, and the assignment submission process.  I've recorded a YouTube video that walks you through this process for the this first assignment.  The assignment submission process is the same for all assignments so you might find it to be a useful reference in the future as well:
 
