@@ -1,0 +1,6 @@
+name: assignment1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - ipython=8.25.0
