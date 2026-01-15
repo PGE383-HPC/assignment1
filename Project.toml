@@ -1,0 +1,10 @@
+name = "assignment1"
+uuid = "c61cdcd2-4ec3-4f35-9f65-2a99f9ef50ff"
+version = "0.1.0"
+authors = ["John T. Foster <johntfosterjr@gmail.com>"]
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
